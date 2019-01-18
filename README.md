@@ -13,8 +13,8 @@ The Script to export Qlik Sense QLogs Table into text files
 6. Output will gerated into folder C:\yheTemp\QLogs
 
 # Requirement
-Qlik Sense September 2017 or later
-
+- Qlik Sense September 2017 or later
+- QLogs database is installed locally(on Qlik Sense Central node)
 
 # Disclaimer
 The scripts is not supported by Qlik. Please use it on your own risk. 
